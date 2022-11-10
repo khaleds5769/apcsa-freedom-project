@@ -5,7 +5,7 @@ by Khaled Saleh
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a college application organizer. This blog will walk through my process of independently studying Swift in order to make my app for the college application organizer.
 
 ## Links
 
