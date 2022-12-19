@@ -1,7 +1,23 @@
 # Entry 2
-##### X/X/XX
+##### 12/18/22
 
-Text
+## Content: 
+
+
+
+
+
+
+## Engineering Design Process: 
+
+
+
+## Skills: 
+
+
+
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
