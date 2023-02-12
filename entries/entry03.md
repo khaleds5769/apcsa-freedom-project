@@ -1,7 +1,18 @@
 # Entry 3
-##### X/X/XX
+##### 2/12/23
 
-Text
+## Content
+
+I can change my Icon for my app by designing my own and implementing it inside the `Assets` folder on my terminal. 
+
+
+
+## Engineering Design Process:
+
+
+## Skills:
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
