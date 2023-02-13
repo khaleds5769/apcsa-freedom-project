@@ -32,7 +32,7 @@ struct ContentView: View {
 ```
 ## Engineering Design Process:
 
-Currently where I am in the [Engineering Design Process](https://hstatsep.github.io/students/#edp) is that I am creating my prototype but also improvising as well along the way. As I am building my app, I am changing my original ideas to new ideas that I believe will be best for me, as well as improvising my app on how things should look and function. 
+Currently where I am in the [Engineering Design Process](https://hstatsep.github.io/students/#edp) is that I am creating my prototype but also improvising as well along the way. As I am building my app, I am changing my original ideas to new ideas that I believe will be best for me, as well as improvising my app on how things should look and function. My next steps would be to test my prototype as well as to continue improvising and asking for help when needed. 
 
 ## Skills:
 
@@ -42,4 +42,5 @@ The [`skills`](https://hstatsep.github.io/students/#skills) I have gained throug
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
+
 
