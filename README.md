@@ -14,7 +14,17 @@ For my project, I am making a college application organizer. This blog will walk
 [Presentation](https://docs.google.com/presentation/d/1h_cc536BmVrP5jfm27PaUTqNgWZYxZk_bmSkJByHFSE/edit#slide=id.p)
 
 ## Implications
-X
+Positive effects on society: 
+* Exposure about college to students
+* Teaches the different components of college to look out for. 
+* Teaches students the different career options they can intake. 
+* Teaches students the importance of Financial Aid 
+* Teaches students how to file Financial Aid. 
+
+
+Negative effects on society: 
+* Information may not be up to date the years to come. 
+* Rely on tech instead of asking trusted professional adults. 
 
 ---
 
